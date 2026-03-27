@@ -1,0 +1,15 @@
+# Requirements for AI Service
+
+## Scene Detection
+opencv-python
+
+## Natural Language Processing (NLP)
+nltk
+spacy
+
+## Text-to-Speech (TTS)
+gTTS
+
+## Voice Cloning
+
+# Note: Ensure to check the compatibility of libraries with your environment.
